@@ -22,6 +22,7 @@ def main():
     # Получаем список техники с активированными датчиками урожайности
     cars = car_list()
     requests_days(cars)
+    input("Завершено. Нажмите Enter. ")
 
 
 
@@ -98,6 +99,7 @@ def productivity(from_date, car):
 
 if __name__ == '__main__':
     main()
+
 
 
 
