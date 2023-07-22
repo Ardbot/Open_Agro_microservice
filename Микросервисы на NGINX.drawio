@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T12:59:38.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="rb8264q9fpBWPIPiEI2H" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T13:38:25.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="cR-Fl9sxUqa_y3st06Pp" version="21.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4780" dy="2633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -33,9 +33,11 @@
         <mxCell id="5SKNjN2g-NxWEHicX-SF-12" value="Серверная часть" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="394" y="90" width="140" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="5SKNjN2g-NxWEHicX-SF-13" value="api.openagro.ru" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="404" y="120" width="120" height="20" as="geometry" />
-        </mxCell>
+        <UserObject label="api.openagro.ru" link="data:page/id,C5RBs43oDa-KdzZeNtuy" id="5SKNjN2g-NxWEHicX-SF-13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="404" y="120" width="120" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="5SKNjN2g-NxWEHicX-SF-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.001;entryY=0.206;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="5SKNjN2g-NxWEHicX-SF-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="334" y="130" as="sourcePoint" />
@@ -77,6 +79,9 @@
             <mxPoint x="10" y="320" as="sourcePoint" />
             <mxPoint x="820" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0LKQMU3cU9VHXmMURhVE-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="990" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
